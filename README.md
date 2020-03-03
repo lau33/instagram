@@ -10,6 +10,8 @@ A private service is required to avoid people misusing it and instagram noticing
 * Private api
 * Detailed documentation and examples of all features
 * Daily updates
+* Feature on demand
+* Exclusive private code
 
 # Prices
 
