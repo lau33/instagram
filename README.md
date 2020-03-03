@@ -17,14 +17,14 @@ Our offered service is for companies only.
 
 The extimated monthly price of
 
-• private bot is 2.500 EUR + tax
+• private bot is 2.500 EUR + tax <br>
 • private api is 1.000 EUR + tax
 
 At the moment we are looking only for long terms subscribers.
 
 # Contact
 
-• [E-Mail](mailto:lau33@outlook.de)
+• [E-Mail](mailto:lau33@outlook.de) <br>
 • [Telegram](https://t.me/lau33)
 
 Sincerly your lau33 💼
