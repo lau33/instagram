@@ -15,12 +15,17 @@ A private service is required to avoid people misusing it and instagram noticing
 
 Our offered service is for companies only.
 
-The extimated monthly price of
+The monthly price
 
-• private bot is 2.500 EUR + tax <br>
-• private api is 1.000 EUR + tax
+• for the private bot is 2.500 EUR + tax <br>
+• for the private api is 1.000 EUR + tax
 
 At the moment we are looking only for long terms subscribers.
+
+# Payment methods
+
+• PayPal (5,5 % fee) <br>
+• Bank transfer
 
 # Contact
 
