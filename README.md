@@ -6,9 +6,9 @@ A private service is required to avoid people misusing it and instagram noticing
 
 # Features
 
-• Private bot
-• Private api
-• Detailed documentation and examples of all features
+• Private bot <br>
+• Private api <br>
+• Detailed documentation and examples of all features <br>
 • Daily updates
 
 # Prices
